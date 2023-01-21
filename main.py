@@ -61,10 +61,12 @@ def main():
     get_json()
     collect_date()
     final_json(collect_date())
+    # debug print
     # print('create')
 
 if __name__ == '__main__':
     main()
+    # debug print
     # print('complete')
 
 
